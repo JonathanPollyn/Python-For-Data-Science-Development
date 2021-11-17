@@ -21,5 +21,4 @@ Python
 15. Numpy
 16. Pandas
 17. Web scrapping
-18. Visualization
-19. Exceptions
+
